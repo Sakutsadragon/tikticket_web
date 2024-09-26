@@ -1,0 +1,10 @@
+export const host="http://localhost:5000";
+export const registerRoute = `${host}/api/auth/register`
+export const loginRoute = `${host}/api/auth/login`
+export const aregisterRoute = `${host}/api/autha/aregister`
+export const aloginRoute = `${host}/api/autha/alogin`
+export const addshowRoute = `${host}/api/autha/addshow`
+export const  availableShowsRoute = `${host}/api/auth/availableShows`
+export const updateSeatsRoute = `${host}/api/autha/updateSeats`
+export const getShowRoute = `${host}/api/autha/getSeats`
+export const  getHistoryRoute = `${host}/api/auth/getHistory`
